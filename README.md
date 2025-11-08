@@ -28,7 +28,6 @@ Perform ETL validation using Python scripting.
 * Write test results into a separate file
 
 ![image](https://github.com/varma-prasad/ETL-Validation-with-python-scripting/assets/108605375/ab05e467-3c55-496b-8131-e998346a9dbe)
-![image](https://github.com/varma-prasad/ETL-Validation-with-python-scripting/assets/108605375/ba0d248e-6877-434a-9ba6-52590019916e)
 
 ## Design and Development
 
