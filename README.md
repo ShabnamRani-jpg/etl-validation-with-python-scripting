@@ -63,14 +63,9 @@ Perform ETL validation using Python scripting.
 ## Authors
 
 - [Shabnam Rani] (Current Maintainer)
-- [Varma Prasad S](https://github.com/varma-prasad) (Original Contributor)
 
 ## Skills
 SQL, ETL, Python, Power BI...
-
-## Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varma-prasad-s/)
 
 ## About the Maintainer
 
